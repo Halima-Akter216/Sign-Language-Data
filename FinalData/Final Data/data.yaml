@@ -1,0 +1,5 @@
+train: C:\Users\DCL\Desktop\Defense Project\Final Data\train\images
+val: C:\Users\DCL\Desktop\Defense Project\Final Data\test\images
+
+nc: 6
+names: ['Hello', 'ILoveYou', 'No', 'Please', 'Thanks', 'Yes']
